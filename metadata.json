@@ -1,0 +1,5 @@
+{
+  "name": "Ponto Master Pro",
+  "description": "Sistema completo de registro de ponto com turnos, banco de horas e PWA.",
+  "requestFramePermissions": ["camera"]
+}
